@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1095996326177",
+    "firebase_url": "https://storage3-15344.firebaseio.com",
+    "project_id": "storage3-15344",
+    "storage_bucket": "storage3-15344.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1095996326177:android:98be7fe6c23a7148",
+        "android_client_info": {
+          "package_name": "com.example.shriya.photoupload"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1095996326177-r2e176r5mk9lapsu5c1tse2sjbqbrq0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQChAA8RMrU5dImiqC1NNq1EhziVDND_g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
